@@ -1,0 +1,136 @@
+
+:root{
+  --cor-texto: white;
+  --bg-url: url(./assets/bg-fundo.jpg);
+  --cor-borda: greenyellow;
+  --cor-fundo: rgba(0, 0, 0, 0.05);
+  --cor-fundo-hover:rgb(0, 0, 0, 0.2);
+  --cor-fundo-link-hover: rgba(255, 255, 255, 0.2);
+  --buttom-svg:white url(./assets/botao.svg);
+}
+.light{
+  --cor-texto:black;
+  --bg-url: url(./assets/bg-mobile-light.jpg);
+  --cor-borda:black;
+  --cor-fundo: rgba(0, 0, 0, 0.1);
+  --cor-fundo-hover: rgba(0, 0, 0, 0.2);
+  --cor-fundo-link-hover: rgba(0, 0, 0, 0.2);
+  --buttom-svg:white url(./assets/buttomsol.svg);
+  }
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body *{
+  font-family: 'Inter', sans-serif;
+  color : var(--cor-texto);
+}
+body{
+  background: var(--bg-url)
+  no-repeat
+  top center/cover;
+}
+
+#container{
+  width: 360px;
+  margin: 56px auto;
+  padding: 0px 24px;
+}
+
+#fotologo{
+  text-align:center;
+  padding:24px;
+}
+#fotologo img{
+  height:112px;
+}
+
+#fotologo p{
+  font-weight: 500px;
+  line-height: 24px;
+  padding: 8px;
+  margin-bottom:15px;
+}
+ul{
+  list-style: none;
+  display: flex;
+  flex-direction:column;
+  gap:16px;
+}
+
+ul li a{
+   display: flex;
+   text-decoration: none;
+   border-radius: 8px;
+   border: solid 1px var(--cor-borda);
+   padding: 16px 24px;
+   justify-content: center;
+   align-items: center;
+   backdrop-filter: blur (4px);
+   -webkit-backdrop-filter: blur(4px);
+   background: var(--cor-fundo);
+   font-weight: 500;
+   transition:backgraund 0.3s;
+}
+ul li a:hover{
+ background:var(--cor-fundo-hover);
+ border: solid 1px green;
+}
+
+#social-link{
+  display: flex;
+  justify-content: center;
+  margin: 24px 0;
+  gap: 20px;
+  font-size: 24px;
+}
+
+#social-link a :hover{
+  background: var(--cor-fundo-link-hover);
+  padding: 10px;
+  border-radius: 50%;
+  transition: all 0.2s ease;
+}
+#botao{
+  
+  position: relative;
+   width: 64px;
+   margin: 4px auto;
+}
+
+#botao button {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 0;
+  background: var(--buttom-svg) no-repeat center;
+  position: absolute;
+  left:0;
+  z-index: 1;
+  transform: translateY(-50%);
+  top: 50%;
+}
+.light #botao button{
+    right: 0;
+    left: initial;
+  }
+#botao span{
+  display: block;
+  width: 64px;
+  height: 24px;
+  border: solid 1px var(--cor-borda);
+  border-radius: 999px;
+  background: var(--cor-fundo);
+  backdrop-filter: blur (4px);
+   -webkit-backdrop-filter: blur(4px)
+}
+#footer{
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+#footer a{
+  text-decoration: none;
+}
