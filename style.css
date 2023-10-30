@@ -106,18 +106,22 @@ ul li a:hover{
   width: 32px;
   height: 32px;
   border-radius: 50%;
-  border: 0;
+  border: 2px solid black;
   background: var(--buttom-svg) no-repeat center;
   position: absolute;
   left:0;
   z-index: 1;
   transform: translateY(-50%);
   top: 50%;
-   animation: slide-back  0.4s forwards;
+   animation: slide-back  0.5s ;
+}
+#botao button:hover{
+  border:  3px solid green;
 }
 .light #botao button{
-   animation: slide-in  0.4s forwards;
+   animation: slide-in  0.5s forwards;
   }
+
 #botao span{
   display: block;
   width: 64px;
