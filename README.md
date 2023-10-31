@@ -4,7 +4,6 @@
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. portanto mudei algumas coisas para não dar aquela sensação de copiar colar,
 outro detalhe, é que o projeto é para quem já tem um pouco de experiência com html, css, js, pois 
 quem não tem, creio que não entende muita coisa, muito rápido bem resumido, mas... o mérito vai para a escola que tem uma grade muito boa, e confesso que vem me ajudando muito, muitas coisas que não aprendi no curso de analista de sistema, estou aprendendo aqui na Rocketseat, meu agradecimento ao professor "Maykbrito". <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">
@@ -32,23 +31,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - Figma
-
+- Readme
 ## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ Auri Targino (https://github.com/AuriTargino)
