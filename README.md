@@ -21,7 +21,7 @@ quem não tem, creio que não entende muita coisa, muito rápido bem resumido, m
 <br>
 
 <p align="center">
-  <img alt="projeto Auri Targino" src=".github/fotoprojeto.png" width="100%">
+  <img alt="projeto Auri Targino" src=".github/fotofrenteprojeto.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
