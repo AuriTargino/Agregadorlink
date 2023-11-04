@@ -22,6 +22,7 @@ quem não tem, creio que não entende muita coisa, muito rápido bem resumido, m
 <p align="center">
   <img alt="projeto Auri Targino" src=".github/fotofrenteprojeto.png" width="100%">
 </p>
+<a href="https://auritargino.github.io/projeto-chave-mudan-a-button/"> Abrir projeto  </a><br>
 
 ## 🚀 Tecnologias
 
