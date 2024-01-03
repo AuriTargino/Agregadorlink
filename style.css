@@ -28,7 +28,8 @@ body *{
   color : var(--cor-texto);
 }
 body{
-  height: 100%vh;
+  height: 100vh;
+
   background: var(--bg-url)
   no-repeat
   top center/cover;
