@@ -29,7 +29,6 @@ body *{
 }
 body{
   height: 100vh;
-
   background: var(--bg-url)
   no-repeat
   top center/cover;
