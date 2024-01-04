@@ -33,6 +33,9 @@ body{
   no-repeat
   top center/cover;
 }
+header{
+  height: 100vh;
+}
 
 #container{
   width: 100%;
