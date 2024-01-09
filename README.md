@@ -21,7 +21,7 @@ outro detalhe, é que o projeto é para quem já tem um pouco de experiência co
 <p align="center">
   <img alt="projeto Auri Targino" src=".github/preview.png" width="100%">
 </p>
-<a href="https://auritargino.github.io/projeto-chave-mudan-a-button/"> Abrir projeto  </a><br>
+<a href="https://auritargino.github.io/Agregadorlink/"> Abrir projeto  </a><br>
 
 ## 🚀 Tecnologias
 
@@ -44,4 +44,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 ---
-Feito com ♥ por  Auri Targino : ( https://github.com/AuriTargino/projeto-chave-mudan-a-button)
+Feito com ♥ por  Auri Targino : (https://auritargino.github.io/Agregadorlink/)
